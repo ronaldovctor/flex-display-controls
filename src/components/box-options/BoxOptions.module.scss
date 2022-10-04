@@ -1,0 +1,9 @@
+.title {
+	margin-bottom: 0.75rem;
+}
+
+.configs {
+	display: grid;
+	gap: 0.25rem;
+	grid-template-columns: repeat(2, 1fr);
+}
